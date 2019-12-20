@@ -1,0 +1,8 @@
+{
+    "Redis": "pub-redis-13248.us-east-mz.7.ec2.redislabs.com:13248",
+    "RedisPwd": "=cLGW9&GQjCYu$2Z5+7K#6ED",
+    "Port": ":8089",
+    "MaxStreamsCatcher": 9,
+    "RedirectPrefix": "p6-qa",
+    "MaxStreamsAdapter": 9
+}

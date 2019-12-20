@@ -1,0 +1,69 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "Syncbak-Git",
+			"revision": ""
+		},
+		{
+			"path": "elasticgo",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "iTLo9j7LrrO1Y8TtNuJTRE1FMPI=",
+			"path": "github.com/Syncbak-Git/controldb",
+			"revision": "4b9e289058853a1bdc181fd32bdf53004b532c54",
+			"revisionTime": "2018-11-08T20:16:55Z"
+		},
+		{
+			"path": "github.com/Syncbak-Git/elasticgo",
+			"revision": ""
+		},
+		{
+			"path": "github.com/Syncbak-Git/github.com/Syncbak-Git/controldb",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "2D1Jy1JMCxmx5Wfbw+i8O0QKKWM=",
+			"path": "github.com/Syncbak-Git/jsconfig",
+			"revision": "276a56d141980c2140d2191af7a519c0ee88ed52",
+			"revisionTime": "2018-10-17T15:07:30Z"
+		},
+		{
+			"checksumSHA1": "UBYV6mPBWFPo2TNDhsGMIeqyqug=",
+			"path": "github.com/Syncbak-Git/log",
+			"revision": "592059608a4b8ddf079e13a02dc8973d6344e476",
+			"revisionTime": "2019-11-22T16:57:24Z"
+		},
+		{
+			"checksumSHA1": "G0Y1XXecEJMT+jFsCALr3kUukhE=",
+			"path": "github.com/Syncbak-Git/logging",
+			"revision": "9da538f92e5711de65d77e62334150fbc3ea3ec6",
+			"revisionTime": "2019-11-22T14:39:30Z"
+		},
+		{
+			"checksumSHA1": "2UmMbNHc8FBr98mJFN1k8ISOIHk=",
+			"path": "github.com/garyburd/redigo/internal",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "3kM5bMyfqvdCfgQdOb01CR1aA74=",
+			"path": "github.com/garyburd/redigo/redis",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "P34KfSRk2R046ow8JGwxPdzkqew=",
+			"path": "github.com/julienschmidt/httprouter",
+			"revision": "08a3b3d20bbeeab9ca4889bcdb65fec0423ef882",
+			"revisionTime": "2019-10-05T17:17:06Z"
+		},
+		{
+			"path": "ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/elasticgo",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/Syncbak-Git/streamdashboard/src"
+}
